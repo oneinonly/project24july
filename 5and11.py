@@ -8,4 +8,4 @@ elif (number % 5 == 0):
 elif (number % 11 == 0):
     print("Given Number {0} is Divisible by 11".format(number))
 else:
-    print("Given Number {0}  Divisible by 5 and 11".format(number))gitgit
+    print("Given Number {0}  Divisible by 5 and 11".format(number))
